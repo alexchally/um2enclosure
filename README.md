@@ -1,6 +1,9 @@
 # um2enclosure
 A laser cut enclosure for the Ultimaker 2
 
+Credit where credit is due: While I drew this up by myself, it is basically a quick redesign of the enclosure made by Bertho Boman here: https://www.youmagine.com/designs/bertho-boman--2
+
+
 
 This enclosure is meant to be cut out of 5/16" acrylic with a true thickness of .171". It was designed to fit an Ultimaker 2+. 
 
